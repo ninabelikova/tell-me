@@ -1,6 +1,6 @@
 # TellMe
 
-TellMe is Ruby gem for setting simple reminders with natural language processiing on MacOs.
+TellMe is a Ruby gem for setting simple reminders with natural language processiing on MacOs.
 
 ## Installation
 
@@ -37,7 +37,7 @@ tell-me to fus ro dah Nazeem over the cliff friday 10:00
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/tell_me.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ninabelikova/tell-me.
 
 ## License
 
